@@ -1,0 +1,2 @@
+{:deps
+ {org.boofcv/boofcv-all {:mvn/version "0.35"}}}
