@@ -20,3 +20,9 @@ git clone git@github.com:Panthevm/hackaton-tracker.git
 cd hackaton-tracker
 clj -m hack.core
 ```
+
+## Or
+
+```zsh
+java -cp target/hack.jar clojure.main -m hack.core  
+```
